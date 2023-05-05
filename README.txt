@@ -1,9 +1,9 @@
-Le programme est juste à compiler sous  python3, une fois compiler lors de l’exécution il faut entré le nombre de particule que le système de détection va étudier et les résultats sont sortis sous forme de fichier txt, et de courbe pour l’histogramme de l’influence des petits angles et les impulsions avec leurs barre d’erreur associé.
+The program is just to compile under python3, once compiled at runtime it is necessary to enter the number of particles that the detection system will study and the results are output as a txt file, and curve for the histogram of the influence of small angles and pulses with their associated error bar.
 
-Le code peut etudier l'influence d'un angle sur les detecteurs et donc l'influence sur la distribution angulaire de theta et phi.
+The code can study the influence of an angle on the detectors and thus the influence on the angular distribution of theta and phi.
 
-Le code peut etudier le taux de comptage en fonction de la distance entre les detecteurs
+The code can study the count rate as a function of the distance between the detectors
 
-Pour l'affichage en 3 dimensions il faut choisir quel trajectoire a aller recuperer en changeant le numero de la particule a tracer. Il faut verifier au prealable que la particule ne sort pas du systeme puisque la data ne garde que les hit des particules qui ne sortent pas.
+For the display in 3 dimensions it is necessary to choose which trajectory to go and recover by changing the number of the particle to trace. It is necessary to check beforehand that the particle does not leave the system since the data only keeps the hits of the particles that do not leave.
 
-Le code fait un simulation d'un spectrometre d'impulsion d'electrons cosmique, les impulsions sont garde dans un fichier data de sortie avec leurs inceritudes associé.
+The code makes a simulation of a cosmic electron pulse spectrometer, the pulses are kept in an output data file with their associated uncertainties.
