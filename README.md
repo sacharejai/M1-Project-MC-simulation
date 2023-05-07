@@ -1,5 +1,5 @@
 # M1-Project-MC-simulation
-The project consists of setting up your own simulation based on Monte-Carlo methods. A simulation of the experiment SiTrInEO will be implemented, as well as particle-matter interactions within detectors.
+The project consists of setting up your own simulation based on Monte-Carlo methods. 
 
 The program is just to compile under python3, once compiled at runtime it is necessary to enter the number of particles that the detection system will study and the results are output as a txt file, and curve for the histogram of the influence of small angles and pulses with their associated error bar.
 
